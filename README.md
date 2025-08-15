@@ -8,7 +8,7 @@ Small blog page to keep users in the website be more apelative .
 
 ## 🔗 Live Demo
 
-Check out the live version here: **[Dog and Cat Products Store] https://max-mendes91.github.io/Pawvaro-website/
+Check out the live version here: **[Dog and Cat Products Store] [https://max-mendes91.github.io/Pawvaro-website/](https://max-mendes91.github.io/Pawvaro-Website/)
 
 ---
 
