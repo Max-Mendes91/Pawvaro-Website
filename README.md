@@ -1,8 +1,8 @@
 # Dog and  Cat Products Store Website
 
-A clean, responsive website for selling dog products — built entirely with **HTML** and **CSS**.  
+A clean, responsive website for selling dog and cat products — built entirely with **HTML** and **CSS**.  
 This project focuses on a playful, pet-friendly design to showcase products for dogs and cats.
-Small blog page to keep users in the website be more apelative .
+Small blog page to keep users in the website , be more apelative .
 
 ---
 
