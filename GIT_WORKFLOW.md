@@ -95,7 +95,7 @@ git push origin --delete feature/your-feature-name
 We have automated hooks to ensure code quality:
 
 ### Pre-commit Hook:
-- Checks for TODO/FIXME comments
+- Checks for pending items and temporary comments
 - Warns about large files
 - Scans for potential security issues
 - Validates HTML file changes
