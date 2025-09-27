@@ -1379,12 +1379,14 @@ h3 {
     margin-bottom: 0.25rem;
     -webkit-line-clamp: 2;
     /* title: up to 2 lines */
+    line-clamp: 2;
   }
 
   .deal-item p {
     margin: 0.25rem 0;
     color: #555;
     -webkit-line-clamp: 3;
+    line-clamp: 3;
     /* description: up to 3 lines */
   }
 
